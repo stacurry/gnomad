@@ -16,35 +16,35 @@ Deployed on Heroku [here](https://gnomad.herokuapp.com/).
 
 ## Screenshots
 
-### Create a new profile
-##
+## Create a new profile
+
 ![Create a new profile](./readme-images/create_profile.png "Create a new profile")
 
-### View your dashboard
-##
+## View your dashboard
+
 ![View your dashboard](./readme-images/dashboard.png "View your dashboard")
 
-### Search for a localhost
-##
+## Search for a localhost
+
 ![Search for a localhost](./readme-images/simple_search.png "Search for a localhost")
 
-### Use advanced search filters
-##
+## Use advanced search filters
+
 ![Advanced search filters](./readme-images/advanced_search.png "Advanced search filters")
 
-### View another user's profile
-##
+## View another user's profile
+
 ![View another user's profile](./readme-images/profile_view.png "View another user's profile")
 
-### Start a new chat
-##
+## Start a new chat
+
 ![Start a new chat](./readme-images/start_chat.png "Start a new chat")
 
-### View a single, real-time chat
-##
+## View a single, real-time chat
+
 ![View a single chat](./readme-images/view_chat.png "View a single chat")
 
-### View your chat history
-##
+## View your chat history
+
 ![View your chat history](./readme-images/view_chats.png "View your chat history")
-##
+
