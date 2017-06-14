@@ -48,3 +48,33 @@ Deployed on Heroku [here](https://gnomad.herokuapp.com/).
 
 ![View your chat history](./readme-images/view_chats.png "View your chat history")
 
+##
+
+## To Run This Application Locally:
+Note: this application is deployed on Heroku [here](https://gnomad.herokuapp.com/), but if you would like to download and run the code locally, you can do so with the following steps.
+
+**clone & navigate to this repository:**
+
+`$ git clone https://github.com/stacurry/gnomad`
+
+`$ cd gnomad`
+
+**install required gems and npm packages:**
+
+`$ bundle install`
+
+`$ cd client`
+
+`$ npm install`
+
+**set up database:**
+
+`$ bundle exec rake db:create`
+
+`$ bundle exec rake db:migrate`
+
+`$ bundle exec rake db:seed`
+
+**start servers:**
+
+`$ bundle exec rake start`
