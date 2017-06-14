@@ -50,8 +50,8 @@ Deployed on Heroku [here](https://gnomad.herokuapp.com/).
 
 ##
 
-## To Run This Application Locally:
-Note: this application is deployed on Heroku [here](https://gnomad.herokuapp.com/), but if you would like to download and run the code locally, you can do so with the following steps.
+## To Run This Application Locally
+Note: this application is deployed on Heroku [here](https://gnomad.herokuapp.com/), but if you would like to download and run the application locally, you can do so with the following steps:
 
 **clone & navigate to this repository:**
 
@@ -66,6 +66,8 @@ Note: this application is deployed on Heroku [here](https://gnomad.herokuapp.com
 `$ cd client`
 
 `$ npm install`
+
+`$ cd ..`
 
 **set up database:**
 
