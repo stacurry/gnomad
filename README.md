@@ -59,7 +59,7 @@ Note: this application is deployed on Heroku [here](https://gnomad.herokuapp.com
 
 `$ cd gnomad`
 
-**install required gems and npm packages:**
+**install required dependencies:**
 
 `$ bundle install`
 
